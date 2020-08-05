@@ -1,6 +1,6 @@
 {
   "name": "@process-engine/bpmn-elements_contracts",
-  "version": "2.1.0-alpha.6",
+  "version": "2.2.0",
   "description": "A collection of BPMN Elements used by bpmn-js as interfaces.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/process-engine/bpmn-elements_contracts#readme",
   "devDependencies": {
     "@essential-projects/eslint-config": "^1.2.3",
-    "@process-engine/ci_tools": "^2.3.0",
+    "@process-engine/ci_tools": "^3.0.0",
     "eslint": "^6.1.0",
     "eslint-plugin-import": "^2.18.2",
     "tsconfig": "^7.0.0",
