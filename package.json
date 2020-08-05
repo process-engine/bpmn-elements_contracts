@@ -1,6 +1,6 @@
 {
   "name": "@process-engine/bpmn-elements_contracts",
-  "version": "2.1.0-alpha.5",
+  "version": "2.1.0-alpha.6",
   "description": "A collection of BPMN Elements used by bpmn-js as interfaces.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
